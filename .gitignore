@@ -1,4 +1,4 @@
 /node_modules
-/build
-/bower_components
-.idea
+bundle_decoder.js
+package-lock.json
+video.h264
