@@ -6,6 +6,7 @@
     "start": "browserify decoder.js > bundle_decoder.js && node server.js"
   },
   "dependencies": {
+    "browserify": "^16.5.1",
     "pinipig": "^1.6.1"
   }
 }
